@@ -1,6 +1,4 @@
-# Hi there, I'm Swapnil Surushe 👋
 
-### 🚀 Machine Learning Engineer | Business Intelligence Analyst | Generative AI Enthusiast
 
 Welcome to my GitHub! I specialize in building intelligent systems, deploying scalable solutions, and pushing the boundaries of generative AI.
 
